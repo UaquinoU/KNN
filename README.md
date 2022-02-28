@@ -1,5 +1,6 @@
 # KNN
 actividad III
+
 conjunto2=conjunto[:,1:6] #Nueva matriz sin la primer columna
 
 valor_min= [np.inf, np.inf, np.inf, np.inf, np.inf]#Arreglo para valor minimo
